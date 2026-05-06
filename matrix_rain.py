@@ -45,7 +45,7 @@ class MatrixRain:
         for drop in self.drops:
             drop['y'] += drop['speed']
             
-            # Draw trail
+            # Draw trail 
             for i, char in enumerate(drop['chars']):
                 if drop['y'] - i >= 0 and drop['y'] - i < height:
                     color = 1 if i == 0 else 2  # Bright head, dim tail
