@@ -1,1 +1,6 @@
-
+matrix-rain/
+├── matrix_rain.py
+├── README.md
+├── requirements.txt
+├── run.bat          (Windows)
+└── run.sh           (Linux/Mac)
