@@ -3,7 +3,7 @@ MATRIX RAIN EFFECT - Hollywood Style Terminal Animation
 Hollywood's Matrix digital rain effect in your terminal!
 """
 
-import random
+import random #import random,timm,os,curses, wrapper
 import time
 import os
 import curses
