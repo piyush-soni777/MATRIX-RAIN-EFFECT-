@@ -34,3 +34,6 @@ It creates a real-time animated cyberpunk-style rain effect directly inside the 
 ## ▶️ Run the Project
 ```bash
 python main.py
+
+
+⭐ If you like this project, don't forget to star the repository!
