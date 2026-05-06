@@ -28,4 +28,9 @@ It creates a real-time animated cyberpunk-style rain effect directly inside the 
 
 ---
 
-## 📂 Project Structure
+
+---
+
+## ▶️ Run the Project
+```bash
+python main.py
