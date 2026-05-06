@@ -82,6 +82,7 @@ class MatrixRain:
             self.stdscr.clear()
             print("\n🌟 Matrix rain stopped!")
 
+# develope by piyushSoni
 def main(stdscr):
     rain = MatrixRain(stdscr)
     rain.run()
