@@ -8,7 +8,7 @@ import time
 import os
 import curses
 from curses import wrapper
-
+# class
 class MatrixRain:
     def __init__(self, stdscr):
         self.stdscr = stdscr
