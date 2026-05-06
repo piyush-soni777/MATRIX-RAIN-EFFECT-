@@ -1,1 +1,2 @@
-
+# No external packages needed!
+# Built with Python standard library + curses
