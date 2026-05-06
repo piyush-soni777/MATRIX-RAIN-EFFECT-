@@ -18,7 +18,7 @@ class MatrixRain:
         
     def setup_curses(self):
         """Initialize curses with colors"""
-        curses.curs_set(0)  # Hide cursor
+        curses.curs_set(0)  # Hide cursor stand out
         curses.start_color()
         curses.init_pair(1, curses.COLOR_GREEN, curses.COLOR_BLACK)
         curses.init_pair(2, curses.COLOR_CYAN, curses.COLOR_BLACK)
