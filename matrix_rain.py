@@ -15,7 +15,7 @@ class MatrixRain:
         self.setup_curses()
         self.drops = []
         self.fonts = list("0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*")
-        
+           
     def setup_curses(self):
         """Initialize curses with colors"""
         curses.curs_set(0)  # Hide cursor stand out
