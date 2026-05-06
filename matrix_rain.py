@@ -36,7 +36,7 @@ class MatrixRain:
                 'speed': random.uniform(0.3, 0.8),
                 'phase': random.randint(0, 255)
             })
-    
+        
     def update_drops(self):
         """Update all rain drops"""
         new_drops = []
