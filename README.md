@@ -15,9 +15,10 @@ Real-time animated katakana-style characters falling like digital rain.
 ## 🎮 Quick Start
 
 ### Windows:
-```bash
+```bash```
 # Download & Run
 python matrix_rain.py
 
 
-```develope by piyushSoni
+
+develope by piyushSoni
