@@ -27,6 +27,7 @@ It creates a real-time animated cyberpunk-style rain effect directly inside the 
 - Animation continuously updates in the terminal  
 
 ---
+⭐ If you like this project, don't forget to star the repository!
 
 
 ---
@@ -36,4 +37,3 @@ It creates a real-time animated cyberpunk-style rain effect directly inside the 
 python main.py
 
 
-⭐ If you like this project, don't forget to star the repository!
