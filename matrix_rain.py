@@ -55,7 +55,7 @@ class MatrixRain:
                     except:
                         pass
             
-            # Keep drop if still visible
+            # Keep drop if still visible (piyushSoni)
             if drop['y'] < height + len(drop['chars']):
                 new_drops.append(drop)
         
